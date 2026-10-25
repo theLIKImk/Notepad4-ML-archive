@@ -1,6 +1,6 @@
 # Notepad4-ML (Notepad4-MultiLabel)
 
-**English** | [简体中文]((readme_zh_cn.md))
+**English** | [简体中文](readme_zh_cn.md)
 
 ![Notepad4-ML](docs/Notepad4-ml-bar.png)
 
